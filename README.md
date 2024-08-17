@@ -1,0 +1,1 @@
+# Analysis_and_Visualization_of_6-_Magnitude_Earthquakes_using_Power-BI-
